@@ -2,6 +2,8 @@
   "name": "my-v0-project",
   "version": "0.1.0",
   "private": true,
+  "description": "Particle Site Starter",
+  "type": "module",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
